@@ -1,2 +1,2 @@
 # java-labs
-Used Professional Development
+Used For Professional Development
